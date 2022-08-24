@@ -12,7 +12,7 @@ public class HomeWorkQwiz {
                 {"1. Камень", "2. Песок", "3. Стекольный порошок", "4. Пластик"},
                 {"1. Бедренная", "2. Берцовая", "3. Плечевая", "4. Лучевая"}
         };
-        //int[] arrayAnswer = new int[4];
+        int[] arrayAnswer = new int[4];
         int[] arrayCorrectAnswer = {1,2,2,1};
         int countCorrectAnswer = 0;
         int countWrongAnswer = 0;

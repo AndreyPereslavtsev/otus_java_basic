@@ -3,6 +3,7 @@ package ru.otus.java;
 import java.util.Base64;
 import java.util.Scanner;
 
+
 public class HomeWork1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
