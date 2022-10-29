@@ -18,7 +18,7 @@ public class HomeWorkQwizArr {
         int[] useransw = new int[4];
         int i = 0;
         int rightresult = 0;
-        int wrongresult =0;
+        int wrongresult =0;///
 
         Scanner sc = new Scanner(System.in);
 
